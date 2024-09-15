@@ -1,0 +1,6 @@
+.env
+bin/**/*
+chroma_persistent_storageyy/**/*
+lib/**/*
+share/**/*
+pyvenv.cfg
